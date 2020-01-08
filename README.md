@@ -5,13 +5,13 @@
 
 > Number and name of feature: Feature 1 Display Images
 > 
-> Estimate of time needed to complete: _____
+> Estimate of time needed to complete: 1 hour
 > 
-> Start time: _____
+> Start time: 6 pm
 > 
-> Finish time: _____
+> Finish time: 7:53 pm
 > 
-> Actual time needed to complete: _____
+> Actual time needed to complete: 1 hour 53 minutes
 
 
 
