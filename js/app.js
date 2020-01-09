@@ -2,8 +2,6 @@
 
 ConstructPics.picArray = [];
 
-$('main').hide();
-
 // CONSTRUCTOR
 function ConstructPics (hornPic) {
   this.image_url = hornPic.image_url;
@@ -60,6 +58,3 @@ ConstructPics.prototype.filterImage = function() {
   hornOption.removeClass('clone');
   hornOption.attr('class', this.keyword);
 };
-
-$('select').append('<option>text</option>');
-$('select').append('<option>rhino</option>');
