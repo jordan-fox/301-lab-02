@@ -1,50 +1,38 @@
-# 301-lab-03
-## Paired programming 301 lab 03 with Madison Stehle and Jordan Fox
+# 301-lab-02
+## Paired programming 301 lab 02 with Madison Stehle and Jordan Fox
 
 * We will be using provided JSON files to create a photo gallery.
 
-> Number and name of feature: Feature 1 Pagination
+> Number and name of feature: Feature 1 Display Images
 > 
-> Estimate of time needed to complete:
+> Estimate of time needed to complete: 1 hour
 > 
-> Start time:
+> Start time: 6 pm
 > 
-> Finish time:
+> Finish time: 7:53 pm
 > 
-> Actual time needed to complete:
+> Actual time needed to complete: 1 hour 53 minutes
 
 
 
-> Number and name of feature: Feature 2 Templating
+> Number and name of feature: Feature 2 Filter Images
 > 
-> Estimate of time needed to complete:
+> Estimate of time needed to complete: _____
 > 
-> Start time:
+> Start time: _____
 > 
-> Finish time:
+> Finish time: _____
 > 
-> Actual time needed to complete:
+> Actual time needed to complete: _____
 
 
 
-> Number and name of feature: Feature 3 Styling with Flexbox
+> Number and name of feature: Feature 3 Style and application
 > 
-> Estimate of time needed to complete:
+> Estimate of time needed to complete: _____
 > 
-> Start time:
+> Start time: _____
 > 
-> Finish time:
+> Finish time: _____
 > 
-> Actual time needed to complete:
-
-
-
-> Number and name of feature: Feature 4 Sort the images
-> 
-> Estimate of time needed to complete: 
-> 
-> Start time: 
-> 
-> Finish time: 
-> 
-> Actual time needed to complete: 
+> Actual time needed to complete: _____
